@@ -7,6 +7,7 @@ How can we reduce charge time while keeping temperature and lithium plating risk
 **SYSTEM BOUNDARIES:**
 1) Modeling one lithium-ion cell (not a pack)
 2) Inputs: charge current, ambient temperature
+
 Now, why are we choosing these inputs and why only these two inputs? We choose :
 Charge Current I(t) : It is responsible for setting the reaction rate, overpotential, heat generation and lithium plating risk.
 Ambient temperature Tₐ : It is responsible for setting the heat rejection ability and baseline kinetics.
