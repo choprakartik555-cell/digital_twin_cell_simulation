@@ -1,7 +1,7 @@
 **OBJECTIVE:**
 Building a physics-informed digital twin of a lithium-ion cell to study fast-charging trade-offs between charge time, temperature rise, and degradation risk, and design a constraint-aware charging strategy.
 
-**KEY QUESTION WE ARE ANSWERING: **
+**KEY QUESTION WE ARE ANSWERING:**
 How can we reduce charge time while keeping temperature and lithium plating risk within acceptable limits?
 
 **SYSTEM BOUNDARIES:**
@@ -14,8 +14,11 @@ Ambient temperature Tₐ : It is responsible for setting the heat rejection abil
 Everything else that might matter in our simulations such as SOC, internal temperature, overpotentials, degradation state is **internal state**, not an **external input**.
 
 Other common candidates that we are intentionally excluding are :
+
 a) Electrolyte Concentration : This is because electrolyte concentration is not directly measurable in a real BMS. Moreover, it is already **implicitly** captured in the voltage + resistance dynamics in an equivalent circuit model (ECM).
+
 b) Anode Potential : This is also not measurable in real cells, therefore we are approximating its effect via voltage + SOC + temperature (plating proxy).
+
 c) Cooling airflow / heat transfer coefficient : We parametrize this as one constant (hA). Treating it as an input would add unnecesarry complexity without insight at cell level.
 
 3) Outputs: terminal voltage, SOC, temperature, SOH proxy
