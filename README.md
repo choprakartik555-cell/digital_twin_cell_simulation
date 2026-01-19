@@ -42,3 +42,14 @@ We still track State of Health Estimation (SOH) though, but we use it as consequ
 2) Detailed SEI chemistry
 3) Cell-to-pack effects
 4) Mechanical stress
+
+
+**MODELLING & SIMULATION**
+
+In our data :
+
+“Negative current corresponds to discharge”
+
+We will be using NASA AMES Battery Dataset
+
+<img width="1006" height="620" alt="image" src="https://github.com/user-attachments/assets/96185c22-cee8-4240-8c09-7e1554419950" />
