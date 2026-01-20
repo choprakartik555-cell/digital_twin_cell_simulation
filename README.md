@@ -53,3 +53,10 @@ In our data :
 We will be using NASA AMES Battery Dataset
 
 <img width="1006" height="620" alt="image" src="https://github.com/user-attachments/assets/96185c22-cee8-4240-8c09-7e1554419950" />
+
+
+
+SOC Analysis of Data (Using Current Load) :
+
+<img width="1072" height="625" alt="image" src="https://github.com/user-attachments/assets/17000391-1296-4444-8b46-2051b36624cc" />
+
