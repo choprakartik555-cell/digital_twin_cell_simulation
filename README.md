@@ -71,3 +71,6 @@ Identifying OCV data points in our dataset:
 
 <img width="1074" height="645" alt="image" src="https://github.com/user-attachments/assets/30a31782-271e-493b-92c9-823da1fc5ea8" />
 
+<img width="353" height="34" alt="image" src="https://github.com/user-attachments/assets/d6e44657-30c4-4cef-89b5-5fffb8fdbfcf" />
+
+
