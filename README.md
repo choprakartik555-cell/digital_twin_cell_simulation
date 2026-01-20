@@ -56,7 +56,18 @@ We will be using NASA AMES Battery Dataset
 
 
 
+
+
+
+
 SOC Analysis of Data (Using Current Load) :
 
+
+
 <img width="1072" height="625" alt="image" src="https://github.com/user-attachments/assets/17000391-1296-4444-8b46-2051b36624cc" />
+
+
+Identifying OCV data points in our dataset:
+
+<img width="1074" height="645" alt="image" src="https://github.com/user-attachments/assets/30a31782-271e-493b-92c9-823da1fc5ea8" />
 
