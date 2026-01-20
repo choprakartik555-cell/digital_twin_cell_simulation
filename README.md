@@ -74,3 +74,5 @@ Identifying OCV data points in our dataset:
 <img width="353" height="34" alt="image" src="https://github.com/user-attachments/assets/d6e44657-30c4-4cef-89b5-5fffb8fdbfcf" />
 
 
+Estimated internal resistance R0 = 0.1855 Ohm
+
